@@ -1,0 +1,20 @@
+{
+  "name": "grpc-nest-proto",
+  "version": "1.0.0",
+  "description": "This repository is part of my article on Medium:   [Microservices with TypeScript, gRPC, API Gateway, and Authentication | by Kevin Vogel](https://levelup.gitconnected.com/nestjs-microservices-with-grpc-api-gateway-and-authentication-part-1-2-650009c03686)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kevin Vogel",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellokvn/grpc-nest-proto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hellokvn/grpc-nest-proto/issues"
+  },
+  "homepage": "https://github.com/hellokvn/grpc-nest-proto#readme"
+}
